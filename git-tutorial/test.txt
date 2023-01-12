@@ -1,2 +1,4 @@
 
+Git is pretty cool
+
 Hello, world!

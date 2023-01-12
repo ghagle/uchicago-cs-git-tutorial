@@ -1,4 +1,5 @@
 
+Git is pretty cool
 
 GEORGE HAGLE - ghagle
 
